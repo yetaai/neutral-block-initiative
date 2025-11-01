@@ -43,5 +43,8 @@ Promoting balanced representation and fair participation in democratic processes
 **#No-king**  
 Rejecting concentration of power in any single branch, leader, or ideology.  
 Championing distributed, accountable, and citizen-driven governance.
+
+---
+
 ## 📄 License
 MIT License © 2025 The Neutral Block Initiative Contributors
