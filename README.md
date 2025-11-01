@@ -30,5 +30,18 @@ Please submit issues, pull requests, or discussion threads under the *“Issues�
 
 ---
 
+## 🔖 Tags & Core Themes
+
+**#bi-partisan-trap**  
+Breaking the cycle of polarization and gridlock created by two-party dominance.  
+Encouraging structural reform that rewards cooperation instead of opposition.
+
+**#FEC-reform**  
+Advocating for modernization and transparency within electoral and campaign-finance systems.  
+Promoting balanced representation and fair participation in democratic processes.
+
+**#No-king**  
+Rejecting concentration of power in any single branch, leader, or ideology.  
+Championing distributed, accountable, and citizen-driven governance.
 ## 📄 License
 MIT License © 2025 The Neutral Block Initiative Contributors
