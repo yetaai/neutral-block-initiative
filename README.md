@@ -6,7 +6,7 @@
 
 ## 🧩 About
 
-The Neutral Block Initiative explores a new form of representative governance that avoids the pitfall of radical trending of bi-partisan.
+The Neutral Block Initiative tries to have a minor modification on US system dominated by bi-partisan and explores a new form of representative governance that avoids the pitfall of radical trending of partisanship.
 
 ---
 
