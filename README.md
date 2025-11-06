@@ -5,9 +5,12 @@
 ---
 
 ## 🧩 About
-The Neutral Block Initiative explores a new form of representative governance that avoids the pitfallThe Neutral Core Initiative
-“Rebalancing democracy through transparency and non-partisan representation.”
-Purpose
+
+The Neutral Block Initiative explores a new form of representative governance that avoids the pitfall of radical trending of bi-partisan.
+
+---
+
+## Purpose
 
 To invite open discussion on a future U.S. governance model where 20 % – 40 % of congressional seats are reserved for non-partisan, transparently funded members, ensuring that national decisions reflect evidence, balance, and public trust rather than permanent party rivalry.
 
